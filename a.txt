@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 apples
-sweet oranges
+sour oranges
 kiwis
 carrots
-=======
-sweet apples
-oranges
-kiwis
-carrots
->>>>>>> origin/master
